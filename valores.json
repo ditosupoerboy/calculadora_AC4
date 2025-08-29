@@ -1,0 +1,5188 @@
+{
+    "valores": {
+        "00h_as_00h_(24h)": {
+            "domingo": 908.63,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 658.59,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "00h_as_01h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "00h_as_02h_(02h)": {
+            "domingo": 82.76,
+            "segunda": 59.6,
+            "terça": 59.6,
+            "quarta": 59.6,
+            "quinta": 59.6,
+            "sexta": 82.76,
+            "sábado": 82.76
+        },
+        "00h_as_03h_(03h)": {
+            "domingo": 124.14,
+            "segunda": 89.4,
+            "terça": 89.4,
+            "quarta": 89.4,
+            "quinta": 89.4,
+            "sexta": 124.14,
+            "sábado": 124.14
+        },
+        "00h_as_04h_(04h)": {
+            "domingo": 165.52,
+            "segunda": 119.2,
+            "terça": 119.2,
+            "quarta": 119.2,
+            "quinta": 119.2,
+            "sexta": 165.52,
+            "sábado": 165.52
+        },
+        "00h_as_05h_(05h)": {
+            "domingo": 206.9,
+            "segunda": 149.0,
+            "terça": 149.0,
+            "quarta": 149.0,
+            "quinta": 149.0,
+            "sexta": 206.9,
+            "sábado": 206.9
+        },
+        "00h_as_06h_(06h)": {
+            "domingo": 243.31,
+            "segunda": 175.47,
+            "terça": 175.47,
+            "quarta": 175.47,
+            "quinta": 175.47,
+            "sexta": 243.31,
+            "sábado": 243.31
+        },
+        "00h_as_07h_(07h)": {
+            "domingo": 279.72,
+            "segunda": 201.94,
+            "terça": 201.94,
+            "quarta": 201.94,
+            "quinta": 201.94,
+            "sexta": 279.72,
+            "sábado": 279.72
+        },
+        "00h_as_08h_(08h)": {
+            "domingo": 316.13,
+            "segunda": 228.41,
+            "terça": 228.41,
+            "quarta": 228.41,
+            "quinta": 228.41,
+            "sexta": 316.13,
+            "sábado": 316.13
+        },
+        "00h_as_09h_(09h)": {
+            "domingo": 352.54,
+            "segunda": 254.88,
+            "terça": 254.88,
+            "quarta": 254.88,
+            "quinta": 254.88,
+            "sexta": 352.54,
+            "sábado": 352.54
+        },
+        "00h_as_10h_(10h)": {
+            "domingo": 388.95,
+            "segunda": 281.35,
+            "terça": 281.35,
+            "quarta": 281.35,
+            "quinta": 281.35,
+            "sexta": 388.95,
+            "sábado": 388.95
+        },
+        "00h_as_11h_(11h)": {
+            "domingo": 425.36,
+            "segunda": 307.82,
+            "terça": 307.82,
+            "quarta": 307.82,
+            "quinta": 307.82,
+            "sexta": 425.36,
+            "sábado": 425.36
+        },
+        "00h_as_12h_(12h)": {
+            "domingo": 461.77,
+            "segunda": 334.29,
+            "terça": 334.29,
+            "quarta": 334.29,
+            "quinta": 334.29,
+            "sexta": 461.77,
+            "sábado": 461.77
+        },
+        "00h_as_13h_(13h)": {
+            "domingo": 498.18,
+            "segunda": 360.76,
+            "terça": 360.76,
+            "quarta": 360.76,
+            "quinta": 360.76,
+            "sexta": 498.18,
+            "sábado": 498.18
+        },
+        "00h_as_14h_(14h)": {
+            "domingo": 534.59,
+            "segunda": 387.23,
+            "terça": 387.23,
+            "quarta": 387.23,
+            "quinta": 387.23,
+            "sexta": 534.59,
+            "sábado": 534.59
+        },
+        "00h_as_15h_(15h)": {
+            "domingo": 571.0,
+            "segunda": 413.7,
+            "terça": 413.7,
+            "quarta": 413.7,
+            "quinta": 413.7,
+            "sexta": 571.0,
+            "sábado": 571.0
+        },
+        "00h_as_16h_(16h)": {
+            "domingo": 607.41,
+            "segunda": 440.17,
+            "terça": 440.17,
+            "quarta": 440.17,
+            "quinta": 440.17,
+            "sexta": 607.41,
+            "sábado": 607.41
+        },
+        "00h_as_17h_(17h)": {
+            "domingo": 643.82,
+            "segunda": 466.64,
+            "terça": 466.64,
+            "quarta": 466.64,
+            "quinta": 466.64,
+            "sexta": 643.82,
+            "sábado": 643.82
+        },
+        "00h_as_18h_(18h)": {
+            "domingo": 680.23,
+            "segunda": 493.11,
+            "terça": 493.11,
+            "quarta": 493.11,
+            "quinta": 493.11,
+            "sexta": 680.23,
+            "sábado": 680.23
+        },
+        "00h_as_19h_(19h)": {
+            "domingo": 716.64,
+            "segunda": 519.58,
+            "terça": 519.58,
+            "quarta": 519.58,
+            "quinta": 519.58,
+            "sexta": 716.64,
+            "sábado": 716.64
+        },
+        "00h_as_20h_(20h)": {
+            "domingo": 753.05,
+            "segunda": 546.05,
+            "terça": 546.05,
+            "quarta": 546.05,
+            "quinta": 546.05,
+            "sexta": 753.05,
+            "sábado": 753.05
+        },
+        "00h_as_21h_(21h)": {
+            "domingo": 789.46,
+            "segunda": 572.52,
+            "terça": 572.52,
+            "quarta": 572.52,
+            "quinta": 572.52,
+            "sexta": 789.46,
+            "sábado": 789.46
+        },
+        "00h_as_22h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 598.99,
+            "terça": 598.99,
+            "quarta": 598.99,
+            "quinta": 598.99,
+            "sexta": 825.87,
+            "sábado": 825.87
+        },
+        "00h_as_23h_(23h)": {
+            "domingo": 867.25,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 628.79,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "01h_as_00h_(23h)": {
+            "domingo": 867.25,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 628.79,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "01h_as_01h_(24h)": {
+            "domingo": 908.63,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 658.59,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "01h_as_02h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "01h_as_03h_(02h)": {
+            "domingo": 82.76,
+            "segunda": 59.6,
+            "terça": 59.6,
+            "quarta": 59.6,
+            "quinta": 59.6,
+            "sexta": 82.76,
+            "sábado": 82.76
+        },
+        "01h_as_04h_(03h)": {
+            "domingo": 124.14,
+            "segunda": 89.4,
+            "terça": 89.4,
+            "quarta": 89.4,
+            "quinta": 89.4,
+            "sexta": 124.14,
+            "sábado": 124.14
+        },
+        "01h_as_05h_(04h)": {
+            "domingo": 165.52,
+            "segunda": 119.2,
+            "terça": 119.2,
+            "quarta": 119.2,
+            "quinta": 119.2,
+            "sexta": 165.52,
+            "sábado": 165.52
+        },
+        "01h_as_06h_(05h)": {
+            "domingo": 201.93,
+            "segunda": 145.67,
+            "terça": 145.67,
+            "quarta": 145.67,
+            "quinta": 145.67,
+            "sexta": 201.93,
+            "sábado": 201.93
+        },
+        "01h_as_07h_(06h)": {
+            "domingo": 238.34,
+            "segunda": 172.14,
+            "terça": 172.14,
+            "quarta": 172.14,
+            "quinta": 172.14,
+            "sexta": 238.34,
+            "sábado": 238.34
+        },
+        "01h_as_08h_(07h)": {
+            "domingo": 274.75,
+            "segunda": 198.61,
+            "terça": 198.61,
+            "quarta": 198.61,
+            "quinta": 198.61,
+            "sexta": 274.75,
+            "sábado": 274.75
+        },
+        "01h_as_09h_(08h)": {
+            "domingo": 311.16,
+            "segunda": 225.08,
+            "terça": 225.08,
+            "quarta": 225.08,
+            "quinta": 225.08,
+            "sexta": 311.16,
+            "sábado": 311.16
+        },
+        "01h_as_10h_(09h)": {
+            "domingo": 347.57,
+            "segunda": 251.55,
+            "terça": 251.55,
+            "quarta": 251.55,
+            "quinta": 251.55,
+            "sexta": 347.57,
+            "sábado": 347.57
+        },
+        "01h_as_11h_(10h)": {
+            "domingo": 383.98,
+            "segunda": 278.02,
+            "terça": 278.02,
+            "quarta": 278.02,
+            "quinta": 278.02,
+            "sexta": 383.98,
+            "sábado": 383.98
+        },
+        "01h_as_12h_(11h)": {
+            "domingo": 420.39,
+            "segunda": 304.49,
+            "terça": 304.49,
+            "quarta": 304.49,
+            "quinta": 304.49,
+            "sexta": 420.39,
+            "sábado": 420.39
+        },
+        "01h_as_13h_(12h)": {
+            "domingo": 456.8,
+            "segunda": 330.96,
+            "terça": 330.96,
+            "quarta": 330.96,
+            "quinta": 330.96,
+            "sexta": 456.8,
+            "sábado": 456.8
+        },
+        "01h_as_14h_(13h)": {
+            "domingo": 493.21,
+            "segunda": 357.43,
+            "terça": 357.43,
+            "quarta": 357.43,
+            "quinta": 357.43,
+            "sexta": 493.21,
+            "sábado": 493.21
+        },
+        "01h_as_15h_(14h)": {
+            "domingo": 529.62,
+            "segunda": 383.9,
+            "terça": 383.9,
+            "quarta": 383.9,
+            "quinta": 383.9,
+            "sexta": 529.62,
+            "sábado": 529.62
+        },
+        "01h_as_16h_(15h)": {
+            "domingo": 566.03,
+            "segunda": 410.37,
+            "terça": 410.37,
+            "quarta": 410.37,
+            "quinta": 410.37,
+            "sexta": 566.03,
+            "sábado": 566.03
+        },
+        "01h_as_17h_(16h)": {
+            "domingo": 602.44,
+            "segunda": 436.84,
+            "terça": 436.84,
+            "quarta": 436.84,
+            "quinta": 436.84,
+            "sexta": 602.44,
+            "sábado": 602.44
+        },
+        "01h_as_18h_(17h)": {
+            "domingo": 638.85,
+            "segunda": 463.31,
+            "terça": 463.31,
+            "quarta": 463.31,
+            "quinta": 463.31,
+            "sexta": 638.85,
+            "sábado": 638.85
+        },
+        "01h_as_19h_(18h)": {
+            "domingo": 675.26,
+            "segunda": 489.78,
+            "terça": 489.78,
+            "quarta": 489.78,
+            "quinta": 489.78,
+            "sexta": 675.26,
+            "sábado": 675.26
+        },
+        "01h_as_20h_(19h)": {
+            "domingo": 711.67,
+            "segunda": 516.25,
+            "terça": 516.25,
+            "quarta": 516.25,
+            "quinta": 516.25,
+            "sexta": 711.67,
+            "sábado": 711.67
+        },
+        "01h_as_21h_(20h)": {
+            "domingo": 748.08,
+            "segunda": 542.72,
+            "terça": 542.72,
+            "quarta": 542.72,
+            "quinta": 542.72,
+            "sexta": 748.08,
+            "sábado": 748.08
+        },
+        "01h_as_22h_(21h)": {
+            "domingo": 784.49,
+            "segunda": 569.19,
+            "terça": 569.19,
+            "quarta": 569.19,
+            "quinta": 569.19,
+            "sexta": 784.49,
+            "sábado": 784.49
+        },
+        "01h_as_23h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 598.99,
+            "terça": 598.99,
+            "quarta": 598.99,
+            "quinta": 598.99,
+            "sexta": 825.87,
+            "sábado": 825.87
+        },
+        "02h_as_00h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 598.99,
+            "terça": 598.99,
+            "quarta": 598.99,
+            "quinta": 598.99,
+            "sexta": 825.87,
+            "sábado": 825.87
+        },
+        "02h_as_01h_(23h)": {
+            "domingo": 867.25,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 628.79,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "02h_as_02h_(24h)": {
+            "domingo": 908.63,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 658.59,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "02h_as_03h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "02h_as_04h_(02h)": {
+            "domingo": 82.76,
+            "segunda": 59.6,
+            "terça": 59.6,
+            "quarta": 59.6,
+            "quinta": 59.6,
+            "sexta": 82.76,
+            "sábado": 82.76
+        },
+        "02h_as_05h_(03h)": {
+            "domingo": 124.14,
+            "segunda": 89.4,
+            "terça": 89.4,
+            "quarta": 89.4,
+            "quinta": 89.4,
+            "sexta": 124.14,
+            "sábado": 124.14
+        },
+        "02h_as_06h_(04h)": {
+            "domingo": 160.55,
+            "segunda": 115.87,
+            "terça": 115.87,
+            "quarta": 115.87,
+            "quinta": 115.87,
+            "sexta": 160.55,
+            "sábado": 160.55
+        },
+        "02h_as_07h_(05h)": {
+            "domingo": 196.96,
+            "segunda": 142.34,
+            "terça": 142.34,
+            "quarta": 142.34,
+            "quinta": 142.34,
+            "sexta": 196.96,
+            "sábado": 196.96
+        },
+        "02h_as_08h_(06h)": {
+            "domingo": 233.37,
+            "segunda": 168.81,
+            "terça": 168.81,
+            "quarta": 168.81,
+            "quinta": 168.81,
+            "sexta": 233.37,
+            "sábado": 233.37
+        },
+        "02h_as_09h_(07h)": {
+            "domingo": 269.78,
+            "segunda": 195.28,
+            "terça": 195.28,
+            "quarta": 195.28,
+            "quinta": 195.28,
+            "sexta": 269.78,
+            "sábado": 269.78
+        },
+        "02h_as_10h_(08h)": {
+            "domingo": 306.19,
+            "segunda": 221.75,
+            "terça": 221.75,
+            "quarta": 221.75,
+            "quinta": 221.75,
+            "sexta": 306.19,
+            "sábado": 306.19
+        },
+        "02h_as_11h_(09h)": {
+            "domingo": 342.6,
+            "segunda": 248.22,
+            "terça": 248.22,
+            "quarta": 248.22,
+            "quinta": 248.22,
+            "sexta": 342.6,
+            "sábado": 342.6
+        },
+        "02h_as_12h_(10h)": {
+            "domingo": 379.01,
+            "segunda": 274.69,
+            "terça": 274.69,
+            "quarta": 274.69,
+            "quinta": 274.69,
+            "sexta": 379.01,
+            "sábado": 379.01
+        },
+        "02h_as_13h_(11h)": {
+            "domingo": 415.42,
+            "segunda": 301.16,
+            "terça": 301.16,
+            "quarta": 301.16,
+            "quinta": 301.16,
+            "sexta": 415.42,
+            "sábado": 415.42
+        },
+        "02h_as_14h_(12h)": {
+            "domingo": 451.83,
+            "segunda": 327.63,
+            "terça": 327.63,
+            "quarta": 327.63,
+            "quinta": 327.63,
+            "sexta": 451.83,
+            "sábado": 451.83
+        },
+        "02h_as_15h_(13h)": {
+            "domingo": 488.24,
+            "segunda": 354.1,
+            "terça": 354.1,
+            "quarta": 354.1,
+            "quinta": 354.1,
+            "sexta": 488.24,
+            "sábado": 488.24
+        },
+        "02h_as_16h_(14h)": {
+            "domingo": 524.65,
+            "segunda": 380.57,
+            "terça": 380.57,
+            "quarta": 380.57,
+            "quinta": 380.57,
+            "sexta": 524.65,
+            "sábado": 524.65
+        },
+        "02h_as_17h_(15h)": {
+            "domingo": 561.06,
+            "segunda": 407.04,
+            "terça": 407.04,
+            "quarta": 407.04,
+            "quinta": 407.04,
+            "sexta": 561.06,
+            "sábado": 561.06
+        },
+        "02h_as_18h_(16h)": {
+            "domingo": 597.47,
+            "segunda": 433.51,
+            "terça": 433.51,
+            "quarta": 433.51,
+            "quinta": 433.51,
+            "sexta": 597.47,
+            "sábado": 597.47
+        },
+        "02h_as_19h_(17h)": {
+            "domingo": 633.88,
+            "segunda": 459.98,
+            "terça": 459.98,
+            "quarta": 459.98,
+            "quinta": 459.98,
+            "sexta": 633.88,
+            "sábado": 633.88
+        },
+        "02h_as_20h_(18h)": {
+            "domingo": 670.29,
+            "segunda": 486.45,
+            "terça": 486.45,
+            "quarta": 486.45,
+            "quinta": 486.45,
+            "sexta": 670.29,
+            "sábado": 670.29
+        },
+        "02h_as_21h_(19h)": {
+            "domingo": 706.7,
+            "segunda": 512.92,
+            "terça": 512.92,
+            "quarta": 512.92,
+            "quinta": 512.92,
+            "sexta": 706.7,
+            "sábado": 706.7
+        },
+        "02h_as_22h_(20h)": {
+            "domingo": 743.11,
+            "segunda": 539.39,
+            "terça": 539.39,
+            "quarta": 539.39,
+            "quinta": 539.39,
+            "sexta": 743.11,
+            "sábado": 743.11
+        },
+        "02h_as_23h_(21h)": {
+            "domingo": 784.49,
+            "segunda": 569.19,
+            "terça": 569.19,
+            "quarta": 569.19,
+            "quinta": 569.19,
+            "sexta": 784.49,
+            "sábado": 784.49
+        },
+        "03h_as_00h_(21h)": {
+            "domingo": 784.49,
+            "segunda": 569.19,
+            "terça": 569.19,
+            "quarta": 569.19,
+            "quinta": 569.19,
+            "sexta": 784.49,
+            "sábado": 784.49
+        },
+        "03h_as_01h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 598.99,
+            "terça": 598.99,
+            "quarta": 598.99,
+            "quinta": 598.99,
+            "sexta": 825.87,
+            "sábado": 825.87
+        },
+        "03h_as_02h_(23h)": {
+            "domingo": 867.25,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 628.79,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "03h_as_03h_(24h)": {
+            "domingo": 908.63,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 658.59,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "03h_as_04h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "03h_as_05h_(02h)": {
+            "domingo": 82.76,
+            "segunda": 59.6,
+            "terça": 59.6,
+            "quarta": 59.6,
+            "quinta": 59.6,
+            "sexta": 82.76,
+            "sábado": 82.76
+        },
+        "03h_as_06h_(03h)": {
+            "domingo": 119.17,
+            "segunda": 86.07,
+            "terça": 86.07,
+            "quarta": 86.07,
+            "quinta": 86.07,
+            "sexta": 119.17,
+            "sábado": 119.17
+        },
+        "03h_as_07h_(04h)": {
+            "domingo": 155.58,
+            "segunda": 112.54,
+            "terça": 112.54,
+            "quarta": 112.54,
+            "quinta": 112.54,
+            "sexta": 155.58,
+            "sábado": 155.58
+        },
+        "03h_as_08h_(05h)": {
+            "domingo": 191.99,
+            "segunda": 139.01,
+            "terça": 139.01,
+            "quarta": 139.01,
+            "quinta": 139.01,
+            "sexta": 191.99,
+            "sábado": 191.99
+        },
+        "03h_as_09h_(06h)": {
+            "domingo": 228.4,
+            "segunda": 165.48,
+            "terça": 165.48,
+            "quarta": 165.48,
+            "quinta": 165.48,
+            "sexta": 228.4,
+            "sábado": 228.4
+        },
+        "03h_as_10h_(07h)": {
+            "domingo": 264.81,
+            "segunda": 191.95,
+            "terça": 191.95,
+            "quarta": 191.95,
+            "quinta": 191.95,
+            "sexta": 264.81,
+            "sábado": 264.81
+        },
+        "03h_as_11h_(08h)": {
+            "domingo": 301.22,
+            "segunda": 218.42,
+            "terça": 218.42,
+            "quarta": 218.42,
+            "quinta": 218.42,
+            "sexta": 301.22,
+            "sábado": 301.22
+        },
+        "03h_as_12h_(09h)": {
+            "domingo": 337.63,
+            "segunda": 244.89,
+            "terça": 244.89,
+            "quarta": 244.89,
+            "quinta": 244.89,
+            "sexta": 337.63,
+            "sábado": 337.63
+        },
+        "03h_as_13h_(10h)": {
+            "domingo": 374.04,
+            "segunda": 271.36,
+            "terça": 271.36,
+            "quarta": 271.36,
+            "quinta": 271.36,
+            "sexta": 374.04,
+            "sábado": 374.04
+        },
+        "03h_as_14h_(11h)": {
+            "domingo": 410.45,
+            "segunda": 297.83,
+            "terça": 297.83,
+            "quarta": 297.83,
+            "quinta": 297.83,
+            "sexta": 410.45,
+            "sábado": 410.45
+        },
+        "03h_as_15h_(12h)": {
+            "domingo": 446.86,
+            "segunda": 324.3,
+            "terça": 324.3,
+            "quarta": 324.3,
+            "quinta": 324.3,
+            "sexta": 446.86,
+            "sábado": 446.86
+        },
+        "03h_as_16h_(13h)": {
+            "domingo": 483.27,
+            "segunda": 350.77,
+            "terça": 350.77,
+            "quarta": 350.77,
+            "quinta": 350.77,
+            "sexta": 483.27,
+            "sábado": 483.27
+        },
+        "03h_as_17h_(14h)": {
+            "domingo": 519.68,
+            "segunda": 377.24,
+            "terça": 377.24,
+            "quarta": 377.24,
+            "quinta": 377.24,
+            "sexta": 519.68,
+            "sábado": 519.68
+        },
+        "03h_as_18h_(15h)": {
+            "domingo": 556.09,
+            "segunda": 403.71,
+            "terça": 403.71,
+            "quarta": 403.71,
+            "quinta": 403.71,
+            "sexta": 556.09,
+            "sábado": 556.09
+        },
+        "03h_as_19h_(16h)": {
+            "domingo": 592.5,
+            "segunda": 430.18,
+            "terça": 430.18,
+            "quarta": 430.18,
+            "quinta": 430.18,
+            "sexta": 592.5,
+            "sábado": 592.5
+        },
+        "03h_as_20h_(17h)": {
+            "domingo": 628.91,
+            "segunda": 456.65,
+            "terça": 456.65,
+            "quarta": 456.65,
+            "quinta": 456.65,
+            "sexta": 628.91,
+            "sábado": 628.91
+        },
+        "03h_as_21h_(18h)": {
+            "domingo": 665.32,
+            "segunda": 483.12,
+            "terça": 483.12,
+            "quarta": 483.12,
+            "quinta": 483.12,
+            "sexta": 665.32,
+            "sábado": 665.32
+        },
+        "03h_as_22h_(19h)": {
+            "domingo": 701.73,
+            "segunda": 509.59,
+            "terça": 509.59,
+            "quarta": 509.59,
+            "quinta": 509.59,
+            "sexta": 701.73,
+            "sábado": 701.73
+        },
+        "03h_as_23h_(20h)": {
+            "domingo": 743.11,
+            "segunda": 539.39,
+            "terça": 539.39,
+            "quarta": 539.39,
+            "quinta": 539.39,
+            "sexta": 743.11,
+            "sábado": 743.11
+        },
+        "04h_as_00h_(20h)": {
+            "domingo": 743.11,
+            "segunda": 539.39,
+            "terça": 539.39,
+            "quarta": 539.39,
+            "quinta": 539.39,
+            "sexta": 743.11,
+            "sábado": 743.11
+        },
+        "04h_as_01h_(21h)": {
+            "domingo": 784.49,
+            "segunda": 569.19,
+            "terça": 569.19,
+            "quarta": 569.19,
+            "quinta": 569.19,
+            "sexta": 784.49,
+            "sábado": 784.49
+        },
+        "04h_as_02h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 598.99,
+            "terça": 598.99,
+            "quarta": 598.99,
+            "quinta": 598.99,
+            "sexta": 825.87,
+            "sábado": 825.87
+        },
+        "04h_as_03h_(23h)": {
+            "domingo": 867.25,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 628.79,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "04h_as_04h_(24h)": {
+            "domingo": 908.63,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 728.07,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "04h_as_05h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "04h_as_06h_(02h)": {
+            "domingo": 77.79,
+            "segunda": 56.27,
+            "terça": 56.27,
+            "quarta": 56.27,
+            "quinta": 56.27,
+            "sexta": 77.79,
+            "sábado": 77.79
+        },
+        "04h_as_07h_(03h)": {
+            "domingo": 114.2,
+            "segunda": 82.74,
+            "terça": 82.74,
+            "quarta": 82.74,
+            "quinta": 82.74,
+            "sexta": 114.2,
+            "sábado": 114.2
+        },
+        "04h_as_08h_(04h)": {
+            "domingo": 150.61,
+            "segunda": 109.21,
+            "terça": 109.21,
+            "quarta": 109.21,
+            "quinta": 109.21,
+            "sexta": 150.61,
+            "sábado": 150.61
+        },
+        "04h_as_09h_(05h)": {
+            "domingo": 187.02,
+            "segunda": 135.68,
+            "terça": 135.68,
+            "quarta": 135.68,
+            "quinta": 135.68,
+            "sexta": 187.02,
+            "sábado": 187.02
+        },
+        "04h_as_10h_(06h)": {
+            "domingo": 223.43,
+            "segunda": 162.15,
+            "terça": 162.15,
+            "quarta": 162.15,
+            "quinta": 162.15,
+            "sexta": 223.43,
+            "sábado": 223.43
+        },
+        "04h_as_11h_(07h)": {
+            "domingo": 259.84,
+            "segunda": 188.62,
+            "terça": 188.62,
+            "quarta": 188.62,
+            "quinta": 188.62,
+            "sexta": 259.84,
+            "sábado": 259.84
+        },
+        "04h_as_12h_(08h)": {
+            "domingo": 296.25,
+            "segunda": 215.09,
+            "terça": 215.09,
+            "quarta": 215.09,
+            "quinta": 215.09,
+            "sexta": 296.25,
+            "sábado": 296.25
+        },
+        "04h_as_13h_(09h)": {
+            "domingo": 332.66,
+            "segunda": 241.56,
+            "terça": 241.56,
+            "quarta": 241.56,
+            "quinta": 241.56,
+            "sexta": 332.66,
+            "sábado": 332.66
+        },
+        "04h_as_14h_(10h)": {
+            "domingo": 369.07,
+            "segunda": 268.03,
+            "terça": 268.03,
+            "quarta": 268.03,
+            "quinta": 268.03,
+            "sexta": 369.07,
+            "sábado": 369.07
+        },
+        "04h_as_15h_(11h)": {
+            "domingo": 405.48,
+            "segunda": 294.5,
+            "terça": 294.5,
+            "quarta": 294.5,
+            "quinta": 294.5,
+            "sexta": 405.48,
+            "sábado": 405.48
+        },
+        "04h_as_16h_(12h)": {
+            "domingo": 441.89,
+            "segunda": 320.97,
+            "terça": 320.97,
+            "quarta": 320.97,
+            "quinta": 320.97,
+            "sexta": 441.89,
+            "sábado": 441.89
+        },
+        "04h_as_17h_(13h)": {
+            "domingo": 478.3,
+            "segunda": 347.44,
+            "terça": 347.44,
+            "quarta": 347.44,
+            "quinta": 347.44,
+            "sexta": 478.3,
+            "sábado": 478.3
+        },
+        "04h_as_18h_(14h)": {
+            "domingo": 514.71,
+            "segunda": 373.91,
+            "terça": 373.91,
+            "quarta": 373.91,
+            "quinta": 373.91,
+            "sexta": 514.71,
+            "sábado": 514.71
+        },
+        "04h_as_19h_(15h)": {
+            "domingo": 551.12,
+            "segunda": 400.38,
+            "terça": 400.38,
+            "quarta": 400.38,
+            "quinta": 400.38,
+            "sexta": 551.12,
+            "sábado": 551.12
+        },
+        "04h_as_20h_(16h)": {
+            "domingo": 587.53,
+            "segunda": 426.85,
+            "terça": 426.85,
+            "quarta": 426.85,
+            "quinta": 426.85,
+            "sexta": 587.53,
+            "sábado": 587.53
+        },
+        "04h_as_21h_(17h)": {
+            "domingo": 623.94,
+            "segunda": 453.32,
+            "terça": 453.32,
+            "quarta": 453.32,
+            "quinta": 453.32,
+            "sexta": 623.94,
+            "sábado": 623.94
+        },
+        "04h_as_22h_(18h)": {
+            "domingo": 660.35,
+            "segunda": 479.79,
+            "terça": 479.79,
+            "quarta": 479.79,
+            "quinta": 479.79,
+            "sexta": 660.35,
+            "sábado": 660.35
+        },
+        "04h_as_23h_(19h)": {
+            "domingo": 701.73,
+            "segunda": 509.59,
+            "terça": 509.59,
+            "quarta": 509.59,
+            "quinta": 509.59,
+            "sexta": 701.73,
+            "sábado": 701.73
+        },
+        "05h_as_00h_(19h)": {
+            "domingo": 701.73,
+            "segunda": 509.59,
+            "terça": 509.59,
+            "quarta": 509.59,
+            "quinta": 509.59,
+            "sexta": 701.73,
+            "sábado": 701.73
+        },
+        "05h_as_01h_(20h)": {
+            "domingo": 743.11,
+            "segunda": 539.39,
+            "terça": 539.39,
+            "quarta": 539.39,
+            "quinta": 539.39,
+            "sexta": 743.11,
+            "sábado": 743.11
+        },
+        "05h_as_02h_(21h)": {
+            "domingo": 784.49,
+            "segunda": 569.19,
+            "terça": 569.19,
+            "quarta": 569.19,
+            "quinta": 569.19,
+            "sexta": 784.49,
+            "sábado": 784.49
+        },
+        "05h_as_03h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 598.99,
+            "terça": 598.99,
+            "quarta": 598.99,
+            "quinta": 598.99,
+            "sexta": 825.87,
+            "sábado": 825.87
+        },
+        "05h_as_04h_(23h)": {
+            "domingo": 867.25,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 628.79,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "05h_as_05h_(24h)": {
+            "domingo": 908.63,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 658.59,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "05h_as_06h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "05h_as_07h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "05h_as_08h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "05h_as_09h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "05h_as_10h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "05h_as_11h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "05h_as_12h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "05h_as_13h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "05h_as_14h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "05h_as_15h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "05h_as_16h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "05h_as_17h_(12h)": {
+            "domingo": 436.92,
+            "segunda": 317.64,
+            "terça": 317.64,
+            "quarta": 317.64,
+            "quinta": 317.64,
+            "sexta": 436.92,
+            "sábado": 436.92
+        },
+        "05h_as_18h_(13h)": {
+            "domingo": 473.33,
+            "segunda": 344.11,
+            "terça": 344.11,
+            "quarta": 344.11,
+            "quinta": 344.11,
+            "sexta": 473.33,
+            "sábado": 473.33
+        },
+        "05h_as_19h_(14h)": {
+            "domingo": 509.74,
+            "segunda": 370.58,
+            "terça": 370.58,
+            "quarta": 370.58,
+            "quinta": 370.58,
+            "sexta": 509.74,
+            "sábado": 509.74
+        },
+        "05h_as_20h_(15h)": {
+            "domingo": 546.15,
+            "segunda": 397.05,
+            "terça": 397.05,
+            "quarta": 397.05,
+            "quinta": 397.05,
+            "sexta": 546.15,
+            "sábado": 546.15
+        },
+        "05h_as_21h_(16h)": {
+            "domingo": 582.56,
+            "segunda": 423.52,
+            "terça": 423.52,
+            "quarta": 423.52,
+            "quinta": 423.52,
+            "sexta": 582.56,
+            "sábado": 582.56
+        },
+        "05h_as_22h_(17h)": {
+            "domingo": 618.97,
+            "segunda": 449.99,
+            "terça": 449.99,
+            "quarta": 449.99,
+            "quinta": 449.99,
+            "sexta": 618.97,
+            "sábado": 618.97
+        },
+        "05h_as_23h_(18h)": {
+            "domingo": 660.35,
+            "segunda": 479.79,
+            "terça": 479.79,
+            "quarta": 479.79,
+            "quinta": 479.79,
+            "sexta": 660.35,
+            "sábado": 660.35
+        },
+        "06h_as_00h_(18h)": {
+            "domingo": 665.32,
+            "segunda": 483.12,
+            "terça": 483.12,
+            "quarta": 483.12,
+            "quinta": 483.12,
+            "sexta": 665.32,
+            "sábado": 665.32
+        },
+        "06h_as_01h_(19h)": {
+            "domingo": 706.7,
+            "segunda": 512.92,
+            "terça": 512.92,
+            "quarta": 512.92,
+            "quinta": 512.92,
+            "sexta": 706.7,
+            "sábado": 706.7
+        },
+        "06h_as_02h_(20h)": {
+            "domingo": 748.08,
+            "segunda": 542.72,
+            "terça": 542.72,
+            "quarta": 542.72,
+            "quinta": 542.72,
+            "sexta": 748.08,
+            "sábado": 748.08
+        },
+        "06h_as_03h_(21h)": {
+            "domingo": 789.46,
+            "segunda": 572.52,
+            "terça": 572.52,
+            "quarta": 572.52,
+            "quinta": 572.52,
+            "sexta": 789.46,
+            "sábado": 789.46
+        },
+        "06h_as_04h_(22h)": {
+            "domingo": 830.84,
+            "segunda": 602.32,
+            "terça": 602.32,
+            "quarta": 602.32,
+            "quinta": 602.32,
+            "sexta": 830.84,
+            "sábado": 830.84
+        },
+        "06h_as_05h_(23h)": {
+            "domingo": 872.22,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 632.12,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "06h_as_06h_(24h)": {
+            "domingo": 898.69,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 668.53,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "06h_as_07h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "06h_as_08h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "06h_as_09h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "06h_as_10h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "06h_as_11h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "06h_as_12h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "06h_as_13h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "06h_as_14h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "06h_as_15h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "06h_as_16h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "06h_as_17h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "06h_as_18h_(12h)": {
+            "domingo": 436.92,
+            "segunda": 317.64,
+            "terça": 317.64,
+            "quarta": 317.64,
+            "quinta": 317.64,
+            "sexta": 436.92,
+            "sábado": 436.92
+        },
+        "06h_as_19h_(13h)": {
+            "domingo": 473.33,
+            "segunda": 344.11,
+            "terça": 344.11,
+            "quarta": 344.11,
+            "quinta": 344.11,
+            "sexta": 473.33,
+            "sábado": 473.33
+        },
+        "06h_as_20h_(14h)": {
+            "domingo": 509.74,
+            "segunda": 370.58,
+            "terça": 370.58,
+            "quarta": 370.58,
+            "quinta": 370.58,
+            "sexta": 509.74,
+            "sábado": 509.74
+        },
+        "06h_as_21h_(15h)": {
+            "domingo": 546.15,
+            "segunda": 397.05,
+            "terça": 397.05,
+            "quarta": 397.05,
+            "quinta": 397.05,
+            "sexta": 546.15,
+            "sábado": 546.15
+        },
+        "06h_as_22h_(16h)": {
+            "domingo": 582.56,
+            "segunda": 423.52,
+            "terça": 423.52,
+            "quarta": 423.52,
+            "quinta": 423.52,
+            "sexta": 582.56,
+            "sábado": 582.56
+        },
+        "06h_as_23h_(17h)": {
+            "domingo": 623.94,
+            "segunda": 453.32,
+            "terça": 453.32,
+            "quarta": 453.32,
+            "quinta": 453.32,
+            "sexta": 623.94,
+            "sábado": 623.94
+        },
+        "07h_as_00h_(17h)": {
+            "domingo": 628.91,
+            "segunda": 456.65,
+            "terça": 456.65,
+            "quarta": 456.65,
+            "quinta": 456.65,
+            "sexta": 628.91,
+            "sábado": 628.91
+        },
+        "07h_as_01h_(18h)": {
+            "domingo": 670.29,
+            "segunda": 486.45,
+            "terça": 486.45,
+            "quarta": 486.45,
+            "quinta": 486.45,
+            "sexta": 670.29,
+            "sábado": 670.29
+        },
+        "07h_as_02h_(19h)": {
+            "domingo": 711.67,
+            "segunda": 516.25,
+            "terça": 516.25,
+            "quarta": 516.25,
+            "quinta": 516.25,
+            "sexta": 711.67,
+            "sábado": 711.67
+        },
+        "07h_as_03h_(20h)": {
+            "domingo": 753.05,
+            "segunda": 546.05,
+            "terça": 546.05,
+            "quarta": 546.05,
+            "quinta": 546.05,
+            "sexta": 753.05,
+            "sábado": 753.05
+        },
+        "07h_as_04h_(21h)": {
+            "domingo": 794.43,
+            "segunda": 575.85,
+            "terça": 575.85,
+            "quarta": 575.85,
+            "quinta": 575.85,
+            "sexta": 794.43,
+            "sábado": 794.43
+        },
+        "07h_as_05h_(22h)": {
+            "domingo": 835.81,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 605.65,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "07h_as_06h_(23h)": {
+            "domingo": 862.28,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 642.06,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "07h_as_07h_(24h)": {
+            "domingo": 888.75,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 679.47,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "07h_as_08h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "07h_as_09h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "07h_as_10h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "07h_as_11h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "07h_as_12h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "07h_as_13h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "07h_as_14h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "07h_as_15h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "07h_as_16h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "07h_as_17h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "07h_as_18h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "07h_as_19h_(12h)": {
+            "domingo": 436.92,
+            "segunda": 317.64,
+            "terça": 317.64,
+            "quarta": 317.64,
+            "quinta": 317.64,
+            "sexta": 436.92,
+            "sábado": 436.92
+        },
+        "07h_as_20h_(13h)": {
+            "domingo": 473.33,
+            "segunda": 344.11,
+            "terça": 344.11,
+            "quarta": 344.11,
+            "quinta": 344.11,
+            "sexta": 473.33,
+            "sábado": 473.33
+        },
+        "07h_as_21h_(14h)": {
+            "domingo": 509.74,
+            "segunda": 370.58,
+            "terça": 370.58,
+            "quarta": 370.58,
+            "quinta": 370.58,
+            "sexta": 509.74,
+            "sábado": 509.74
+        },
+        "07h_as_22h_(15h)": {
+            "domingo": 546.15,
+            "segunda": 397.05,
+            "terça": 397.05,
+            "quarta": 397.05,
+            "quinta": 397.05,
+            "sexta": 546.15,
+            "sábado": 546.15
+        },
+        "07h_as_23h_(16h)": {
+            "domingo": 587.53,
+            "segunda": 426.85,
+            "terça": 426.85,
+            "quarta": 426.85,
+            "quinta": 426.85,
+            "sexta": 587.53,
+            "sábado": 587.53
+        },
+        "08h_as_00h_(16h)": {
+            "domingo": 592.5,
+            "segunda": 430.18,
+            "terça": 430.18,
+            "quarta": 430.18,
+            "quinta": 430.18,
+            "sexta": 592.5,
+            "sábado": 592.5
+        },
+        "08h_as_01h_(17h)": {
+            "domingo": 633.88,
+            "segunda": 459.98,
+            "terça": 459.98,
+            "quarta": 459.98,
+            "quinta": 459.98,
+            "sexta": 633.88,
+            "sábado": 633.88
+        },
+        "08h_as_02h_(18h)": {
+            "domingo": 675.26,
+            "segunda": 489.78,
+            "terça": 489.78,
+            "quarta": 489.78,
+            "quinta": 489.78,
+            "sexta": 675.26,
+            "sábado": 675.26
+        },
+        "08h_as_03h_(19h)": {
+            "domingo": 716.64,
+            "segunda": 519.58,
+            "terça": 519.58,
+            "quarta": 519.58,
+            "quinta": 519.58,
+            "sexta": 716.64,
+            "sábado": 716.64
+        },
+        "08h_as_04h_(20h)": {
+            "domingo": 758.02,
+            "segunda": 549.38,
+            "terça": 549.38,
+            "quarta": 549.38,
+            "quinta": 549.38,
+            "sexta": 758.02,
+            "sábado": 758.02
+        },
+        "08h_as_05h_(21h)": {
+            "domingo": 799.4,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 579.18,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "08h_as_06h_(22h)": {
+            "domingo": 825.87,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 615.59,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "08h_as_07h_(23h)": {
+            "domingo": 852.34,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 652.0,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "08h_as_08h_(24h)": {
+            "domingo": 878.81,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 688.41,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "08h_as_09h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "08h_as_10h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "08h_as_11h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "08h_as_12h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "08h_as_13h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "08h_as_14h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "08h_as_15h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "08h_as_16h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "08h_as_17h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "08h_as_18h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "08h_as_19h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "08h_as_20h_(12h)": {
+            "domingo": 436.92,
+            "segunda": 317.64,
+            "terça": 317.64,
+            "quarta": 317.64,
+            "quinta": 317.64,
+            "sexta": 436.92,
+            "sábado": 436.92
+        },
+        "08h_as_21h_(13h)": {
+            "domingo": 473.33,
+            "segunda": 344.11,
+            "terça": 344.11,
+            "quarta": 344.11,
+            "quinta": 344.11,
+            "sexta": 473.33,
+            "sábado": 473.33
+        },
+        "08h_as_22h_(14h)": {
+            "domingo": 509.74,
+            "segunda": 370.58,
+            "terça": 370.58,
+            "quarta": 370.58,
+            "quinta": 370.58,
+            "sexta": 509.74,
+            "sábado": 509.74
+        },
+        "08h_as_23h_(15h)": {
+            "domingo": 551.12,
+            "segunda": 400.38,
+            "terça": 400.38,
+            "quarta": 400.38,
+            "quinta": 400.38,
+            "sexta": 551.12,
+            "sábado": 551.12
+        },
+        "09h_as_00h_(15h)": {
+            "domingo": 556.09,
+            "segunda": 403.71,
+            "terça": 403.71,
+            "quarta": 403.71,
+            "quinta": 403.71,
+            "sexta": 556.09,
+            "sábado": 556.09
+        },
+        "09h_as_01h_(16h)": {
+            "domingo": 597.47,
+            "segunda": 433.51,
+            "terça": 433.51,
+            "quarta": 433.51,
+            "quinta": 433.51,
+            "sexta": 597.47,
+            "sábado": 597.47
+        },
+        "09h_as_02h_(17h)": {
+            "domingo": 638.85,
+            "segunda": 463.31,
+            "terça": 463.31,
+            "quarta": 463.31,
+            "quinta": 463.31,
+            "sexta": 638.85,
+            "sábado": 638.85
+        },
+        "09h_as_03h_(18h)": {
+            "domingo": 680.23,
+            "segunda": 493.11,
+            "terça": 493.11,
+            "quarta": 493.11,
+            "quinta": 493.11,
+            "sexta": 680.23,
+            "sábado": 680.23
+        },
+        "09h_as_04h_(19h)": {
+            "domingo": 721.61,
+            "segunda": 522.91,
+            "terça": 522.91,
+            "quarta": 522.91,
+            "quinta": 522.91,
+            "sexta": 721.61,
+            "sábado": 721.61
+        },
+        "09h_as_05h_(20h)": {
+            "domingo": 762.99,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 552.71,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "09h_as_06h_(21h)": {
+            "domingo": 789.46,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 589.12,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "09h_as_07h_(22h)": {
+            "domingo": 815.93,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 625.53,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "09h_as_08h_(23h)": {
+            "domingo": 842.4,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 661.94,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "09h_as_09h_(24h)": {
+            "domingo": 868.87,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 698.35,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "09h_as_10h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "09h_as_11h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "09h_as_12h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "09h_as_13h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "09h_as_14h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "09h_as_15h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "09h_as_16h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "09h_as_17h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "09h_as_18h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "09h_as_19h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "09h_as_20h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "09h_as_21h_(12h)": {
+            "domingo": 436.92,
+            "segunda": 317.64,
+            "terça": 317.64,
+            "quarta": 317.64,
+            "quinta": 317.64,
+            "sexta": 436.92,
+            "sábado": 436.92
+        },
+        "09h_as_22h_(13h)": {
+            "domingo": 473.33,
+            "segunda": 344.11,
+            "terça": 344.11,
+            "quarta": 344.11,
+            "quinta": 344.11,
+            "sexta": 473.33,
+            "sábado": 473.33
+        },
+        "09h_as_23h_(14h)": {
+            "domingo": 514.71,
+            "segunda": 373.91,
+            "terça": 373.91,
+            "quarta": 373.91,
+            "quinta": 373.91,
+            "sexta": 514.71,
+            "sábado": 514.71
+        },
+        "10h_as_00h_(14h)": {
+            "domingo": 519.68,
+            "segunda": 377.24,
+            "terça": 377.24,
+            "quarta": 377.24,
+            "quinta": 377.24,
+            "sexta": 519.68,
+            "sábado": 519.68
+        },
+        "10h_as_01h_(15h)": {
+            "domingo": 561.06,
+            "segunda": 407.04,
+            "terça": 407.04,
+            "quarta": 407.04,
+            "quinta": 407.04,
+            "sexta": 561.06,
+            "sábado": 561.06
+        },
+        "10h_as_02h_(16h)": {
+            "domingo": 602.44,
+            "segunda": 436.84,
+            "terça": 436.84,
+            "quarta": 436.84,
+            "quinta": 436.84,
+            "sexta": 602.44,
+            "sábado": 602.44
+        },
+        "10h_as_03h_(17h)": {
+            "domingo": 643.82,
+            "segunda": 466.64,
+            "terça": 466.64,
+            "quarta": 466.64,
+            "quinta": 466.64,
+            "sexta": 643.82,
+            "sábado": 643.82
+        },
+        "10h_as_04h_(18h)": {
+            "domingo": 685.2,
+            "segunda": 496.44,
+            "terça": 496.44,
+            "quarta": 496.44,
+            "quinta": 496.44,
+            "sexta": 685.2,
+            "sábado": 685.2
+        },
+        "10h_as_05h_(19h)": {
+            "domingo": 726.58,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 526.24,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "10h_as_06h_(20h)": {
+            "domingo": 753.05,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 562.62,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "10h_as_07h_(21h)": {
+            "domingo": 779.52,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 599.06,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "10h_as_08h_(22h)": {
+            "domingo": 805.99,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 635.47,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "10h_as_09h_(23h)": {
+            "domingo": 832.46,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 671.88,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "10h_as_10h_(24h)": {
+            "domingo": 858.93,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 708.29,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "10h_as_11h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "10h_as_12h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "10h_as_13h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "10h_as_14h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "10h_as_15h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "10h_as_16h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "10h_as_17h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "10h_as_18h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "10h_as_19h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "10h_as_20h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "10h_as_21h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "10h_as_22h_(12h)": {
+            "domingo": 436.92,
+            "segunda": 317.64,
+            "terça": 317.64,
+            "quarta": 317.64,
+            "quinta": 317.64,
+            "sexta": 436.92,
+            "sábado": 436.92
+        },
+        "10h_as_23h_(13h)": {
+            "domingo": 478.3,
+            "segunda": 347.44,
+            "terça": 347.44,
+            "quarta": 347.44,
+            "quinta": 347.44,
+            "sexta": 478.3,
+            "sábado": 478.3
+        },
+        "11h_as_00h_(13h)": {
+            "domingo": 483.27,
+            "segunda": 350.77,
+            "terça": 350.77,
+            "quarta": 350.77,
+            "quinta": 350.77,
+            "sexta": 483.27,
+            "sábado": 483.27
+        },
+        "11h_as_01h_(14h)": {
+            "domingo": 524.65,
+            "segunda": 380.57,
+            "terça": 380.57,
+            "quarta": 380.57,
+            "quinta": 380.57,
+            "sexta": 524.65,
+            "sábado": 524.65
+        },
+        "11h_as_02h_(15h)": {
+            "domingo": 566.03,
+            "segunda": 410.37,
+            "terça": 410.37,
+            "quarta": 410.37,
+            "quinta": 410.37,
+            "sexta": 566.03,
+            "sábado": 566.03
+        },
+        "11h_as_03h_(16h)": {
+            "domingo": 607.41,
+            "segunda": 440.17,
+            "terça": 440.17,
+            "quarta": 440.17,
+            "quinta": 440.17,
+            "sexta": 607.41,
+            "sábado": 607.41
+        },
+        "11h_as_04h_(17h)": {
+            "domingo": 648.79,
+            "segunda": 469.97,
+            "terça": 469.97,
+            "quarta": 469.97,
+            "quinta": 469.97,
+            "sexta": 648.79,
+            "sábado": 648.79
+        },
+        "11h_as_05h_(18h)": {
+            "domingo": 690.17,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 499.77,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "11h_as_06h_(19h)": {
+            "domingo": 716.64,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 536.18,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "11h_as_07h_(20h)": {
+            "domingo": 743.11,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 572.59,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "11h_as_08h_(21h)": {
+            "domingo": 769.58,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 609.0,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "11h_as_09h_(22h)": {
+            "domingo": 796.05,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 645.41,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "11h_as_10h_(23h)": {
+            "domingo": 822.52,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 681.82,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "11h_as_11h_(24h)": {
+            "domingo": 848.99,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 718.23,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "11h_as_12h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "11h_as_13h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "11h_as_14h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "11h_as_15h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "11h_as_16h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "11h_as_17h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "11h_as_18h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "11h_as_19h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "11h_as_20h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "11h_as_21h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "11h_as_22h_(11h)": {
+            "domingo": 400.51,
+            "segunda": 291.17,
+            "terça": 291.17,
+            "quarta": 291.17,
+            "quinta": 291.17,
+            "sexta": 400.51,
+            "sábado": 400.51
+        },
+        "11h_as_23h_(12h)": {
+            "domingo": 441.89,
+            "segunda": 320.97,
+            "terça": 320.97,
+            "quarta": 320.97,
+            "quinta": 320.97,
+            "sexta": 441.89,
+            "sábado": 441.89
+        },
+        "12h_as_00h_(12h)": {
+            "domingo": 446.86,
+            "segunda": 324.3,
+            "terça": 324.3,
+            "quarta": 324.3,
+            "quinta": 324.3,
+            "sexta": 446.86,
+            "sábado": 446.86
+        },
+        "12h_as_01h_(13h)": {
+            "domingo": 488.24,
+            "segunda": 354.1,
+            "terça": 354.1,
+            "quarta": 354.1,
+            "quinta": 354.1,
+            "sexta": 488.24,
+            "sábado": 488.24
+        },
+        "12h_as_02h_(14h)": {
+            "domingo": 529.62,
+            "segunda": 383.9,
+            "terça": 383.9,
+            "quarta": 383.9,
+            "quinta": 383.9,
+            "sexta": 529.62,
+            "sábado": 529.62
+        },
+        "12h_as_03h_(15h)": {
+            "domingo": 571.0,
+            "segunda": 413.7,
+            "terça": 413.7,
+            "quarta": 413.7,
+            "quinta": 413.7,
+            "sexta": 571.0,
+            "sábado": 571.0
+        },
+        "12h_as_04h_(16h)": {
+            "domingo": 612.38,
+            "segunda": 443.5,
+            "terça": 443.5,
+            "quarta": 443.5,
+            "quinta": 443.5,
+            "sexta": 612.38,
+            "sábado": 612.38
+        },
+        "12h_as_05h_(17h)": {
+            "domingo": 653.76,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 473.3,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "12h_as_06h_(18h)": {
+            "domingo": 680.23,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 509.71,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "12h_as_07h_(19h)": {
+            "domingo": 706.7,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 546.12,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "12h_as_08h_(20h)": {
+            "domingo": 733.17,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 582.53,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "12h_as_09h_(21h)": {
+            "domingo": 759.64,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 618.94,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "12h_as_10h_(22h)": {
+            "domingo": 786.11,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 655.35,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "12h_as_11h_(23h)": {
+            "domingo": 812.58,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 691.76,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "12h_as_12h_(24h)": {
+            "domingo": 839.05,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 728.17,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "12h_as_13h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "12h_as_14h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "12h_as_15h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "12h_as_16h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "12h_as_17h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "12h_as_18h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "12h_as_19h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "12h_as_20h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "12h_as_21h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "12h_as_22h_(10h)": {
+            "domingo": 364.1,
+            "segunda": 264.7,
+            "terça": 264.7,
+            "quarta": 264.7,
+            "quinta": 264.7,
+            "sexta": 364.1,
+            "sábado": 364.1
+        },
+        "12h_as_23h_(11h)": {
+            "domingo": 405.48,
+            "segunda": 294.5,
+            "terça": 294.5,
+            "quarta": 294.5,
+            "quinta": 294.5,
+            "sexta": 405.48,
+            "sábado": 405.48
+        },
+        "13h_as_00h_(11h)": {
+            "domingo": 410.45,
+            "segunda": 297.83,
+            "terça": 297.83,
+            "quarta": 297.83,
+            "quinta": 297.83,
+            "sexta": 410.45,
+            "sábado": 410.45
+        },
+        "13h_as_01h_(12h)": {
+            "domingo": 451.83,
+            "segunda": 327.63,
+            "terça": 327.63,
+            "quarta": 327.63,
+            "quinta": 327.63,
+            "sexta": 451.83,
+            "sábado": 451.83
+        },
+        "13h_as_02h_(13h)": {
+            "domingo": 493.21,
+            "segunda": 357.43,
+            "terça": 357.43,
+            "quarta": 357.43,
+            "quinta": 357.43,
+            "sexta": 493.21,
+            "sábado": 493.21
+        },
+        "13h_as_03h_(14h)": {
+            "domingo": 534.59,
+            "segunda": 387.23,
+            "terça": 387.23,
+            "quarta": 387.23,
+            "quinta": 387.23,
+            "sexta": 534.59,
+            "sábado": 534.59
+        },
+        "13h_as_04h_(15h)": {
+            "domingo": 575.97,
+            "segunda": 417.03,
+            "terça": 417.03,
+            "quarta": 417.03,
+            "quinta": 417.03,
+            "sexta": 575.97,
+            "sábado": 575.97
+        },
+        "13h_as_05h_(16h)": {
+            "domingo": 617.35,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 446.83,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "13h_as_06h_(17h)": {
+            "domingo": 643.82,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 483.24,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "13h_as_07h_(18h)": {
+            "domingo": 670.29,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 519.65,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "13h_as_08h_(19h)": {
+            "domingo": 696.76,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 556.06,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "13h_as_09h_(20h)": {
+            "domingo": 723.23,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 592.47,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "13h_as_10h_(21h)": {
+            "domingo": 749.7,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 628.88,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "13h_as_11h_(22h)": {
+            "domingo": 776.17,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 665.29,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "13h_as_12h_(23h)": {
+            "domingo": 802.64,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 701.7,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "13h_as_13h_(24h)": {
+            "domingo": 829.11,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 738.11,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "13h_as_14h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "13h_as_15h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "13h_as_16h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "13h_as_17h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "13h_as_18h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "13h_as_19h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "13h_as_20h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "13h_as_21h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "13h_as_22h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 238.23,
+            "terça": 238.23,
+            "quarta": 238.23,
+            "quinta": 238.23,
+            "sexta": 327.69,
+            "sábado": 327.69
+        },
+        "13h_as_23h_(10h)": {
+            "domingo": 369.07,
+            "segunda": 268.03,
+            "terça": 268.03,
+            "quarta": 268.03,
+            "quinta": 268.03,
+            "sexta": 369.07,
+            "sábado": 369.07
+        },
+        "14h_as_00h_(10h)": {
+            "domingo": 374.04,
+            "segunda": 271.36,
+            "terça": 271.36,
+            "quarta": 271.36,
+            "quinta": 271.36,
+            "sexta": 374.04,
+            "sábado": 374.04
+        },
+        "14h_as_01h_(11h)": {
+            "domingo": 415.42,
+            "segunda": 301.16,
+            "terça": 301.16,
+            "quarta": 301.16,
+            "quinta": 301.16,
+            "sexta": 415.42,
+            "sábado": 415.42
+        },
+        "14h_as_02h_(12h)": {
+            "domingo": 456.8,
+            "segunda": 330.96,
+            "terça": 330.96,
+            "quarta": 330.96,
+            "quinta": 330.96,
+            "sexta": 456.8,
+            "sábado": 456.8
+        },
+        "14h_as_03h_(13h)": {
+            "domingo": 498.18,
+            "segunda": 360.76,
+            "terça": 360.76,
+            "quarta": 360.76,
+            "quinta": 360.76,
+            "sexta": 498.18,
+            "sábado": 498.18
+        },
+        "14h_as_04h_(14h)": {
+            "domingo": 539.56,
+            "segunda": 390.56,
+            "terça": 390.56,
+            "quarta": 390.56,
+            "quinta": 390.56,
+            "sexta": 539.56,
+            "sábado": 539.56
+        },
+        "14h_as_05h_(15h)": {
+            "domingo": 580.94,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 420.36,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "14h_as_06h_(16h)": {
+            "domingo": 607.41,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 456.77,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "14h_as_07h_(17h)": {
+            "domingo": 633.88,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 493.18,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "14h_as_08h_(18h)": {
+            "domingo": 660.35,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 529.59,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "14h_as_09h_(19h)": {
+            "domingo": 686.82,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 566.0,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "14h_as_10h_(20h)": {
+            "domingo": 713.29,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 602.41,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "14h_as_11h_(21h)": {
+            "domingo": 739.76,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 638.82,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "14h_as_12h_(22h)": {
+            "domingo": 766.23,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 675.23,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "14h_as_13h_(23h)": {
+            "domingo": 792.7,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 711.64,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "14h_as_14h_(24h)": {
+            "domingo": 819.17,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 748.05,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "14h_as_15h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "14h_as_16h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "14h_as_17h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "14h_as_18h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "14h_as_19h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "14h_as_20h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "14h_as_21h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "14h_as_22h_(08h)": {
+            "domingo": 291.28,
+            "segunda": 211.76,
+            "terça": 211.76,
+            "quarta": 211.76,
+            "quinta": 211.76,
+            "sexta": 291.28,
+            "sábado": 291.28
+        },
+        "14h_as_23h_(09h)": {
+            "domingo": 332.66,
+            "segunda": 241.56,
+            "terça": 241.56,
+            "quarta": 241.56,
+            "quinta": 241.56,
+            "sexta": 332.66,
+            "sábado": 332.66
+        },
+        "15h_as_00h_(09h)": {
+            "domingo": 337.63,
+            "segunda": 244.89,
+            "terça": 244.89,
+            "quarta": 244.89,
+            "quinta": 244.89,
+            "sexta": 337.63,
+            "sábado": 337.63
+        },
+        "15h_as_01h_(10h)": {
+            "domingo": 379.01,
+            "segunda": 274.69,
+            "terça": 274.69,
+            "quarta": 274.69,
+            "quinta": 274.69,
+            "sexta": 379.01,
+            "sábado": 379.01
+        },
+        "15h_as_02h_(11h)": {
+            "domingo": 420.39,
+            "segunda": 304.49,
+            "terça": 304.49,
+            "quarta": 304.49,
+            "quinta": 304.49,
+            "sexta": 420.39,
+            "sábado": 420.39
+        },
+        "15h_as_03h_(12h)": {
+            "domingo": 461.77,
+            "segunda": 334.29,
+            "terça": 334.29,
+            "quarta": 334.29,
+            "quinta": 334.29,
+            "sexta": 461.77,
+            "sábado": 461.77
+        },
+        "15h_as_04h_(13h)": {
+            "domingo": 503.15,
+            "segunda": 364.09,
+            "terça": 364.09,
+            "quarta": 364.09,
+            "quinta": 364.09,
+            "sexta": 503.15,
+            "sábado": 503.15
+        },
+        "15h_as_05h_(14h)": {
+            "domingo": 544.53,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 393.89,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "15h_as_06h_(15h)": {
+            "domingo": 571.0,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 430.3,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "15h_as_07h_(16h)": {
+            "domingo": 597.47,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 466.71,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "15h_as_08h_(17h)": {
+            "domingo": 623.94,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 503.12,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "15h_as_09h_(18h)": {
+            "domingo": 650.41,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 539.53,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "15h_as_10h_(19h)": {
+            "domingo": 676.88,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 575.94,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "15h_as_11h_(20h)": {
+            "domingo": 703.35,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 612.35,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "15h_as_12h_(21h)": {
+            "domingo": 729.82,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 648.76,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "15h_as_13h_(22h)": {
+            "domingo": 756.29,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 685.17,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "15h_as_14h_(23h)": {
+            "domingo": 782.76,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 721.58,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "15h_as_15h_(24h)": {
+            "domingo": 809.23,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 757.99,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "15h_as_16h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "15h_as_17h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "15h_as_18h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "15h_as_19h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "15h_as_20h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "15h_as_21h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "15h_as_22h_(07h)": {
+            "domingo": 254.87,
+            "segunda": 185.29,
+            "terça": 185.29,
+            "quarta": 185.29,
+            "quinta": 185.29,
+            "sexta": 254.87,
+            "sábado": 254.87
+        },
+        "15h_as_23h_(08h)": {
+            "domingo": 296.25,
+            "segunda": 215.09,
+            "terça": 215.09,
+            "quarta": 215.09,
+            "quinta": 215.09,
+            "sexta": 296.25,
+            "sábado": 296.25
+        },
+        "16h_as_00h_(08h)": {
+            "domingo": 301.22,
+            "segunda": 218.42,
+            "terça": 218.42,
+            "quarta": 218.42,
+            "quinta": 218.42,
+            "sexta": 301.22,
+            "sábado": 301.22
+        },
+        "16h_as_01h_(09h)": {
+            "domingo": 342.6,
+            "segunda": 248.22,
+            "terça": 248.22,
+            "quarta": 248.22,
+            "quinta": 248.22,
+            "sexta": 342.6,
+            "sábado": 342.6
+        },
+        "16h_as_02h_(10h)": {
+            "domingo": 383.98,
+            "segunda": 278.02,
+            "terça": 278.02,
+            "quarta": 278.02,
+            "quinta": 278.02,
+            "sexta": 383.98,
+            "sábado": 383.98
+        },
+        "16h_as_03h_(11h)": {
+            "domingo": 425.36,
+            "segunda": 307.82,
+            "terça": 307.82,
+            "quarta": 307.82,
+            "quinta": 307.82,
+            "sexta": 425.36,
+            "sábado": 425.36
+        },
+        "16h_as_04h_(12h)": {
+            "domingo": 466.74,
+            "segunda": 337.62,
+            "terça": 337.62,
+            "quarta": 337.62,
+            "quinta": 337.62,
+            "sexta": 466.74,
+            "sábado": 466.74
+        },
+        "16h_as_05h_(13h)": {
+            "domingo": 508.12,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 367.42,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "16h_as_06h_(14h)": {
+            "domingo": 534.59,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 403.83,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "16h_as_07h_(15h)": {
+            "domingo": 561.06,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 440.24,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "16h_as_08h_(16h)": {
+            "domingo": 587.53,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 476.65,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "16h_as_09h_(17h)": {
+            "domingo": 614.0,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 513.06,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "16h_as_10h_(18h)": {
+            "domingo": 640.47,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 549.47,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "16h_as_11h_(19h)": {
+            "domingo": 666.94,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 585.88,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "16h_as_12h_(20h)": {
+            "domingo": 693.41,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 622.29,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "16h_as_13h_(21h)": {
+            "domingo": 719.88,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 658.7,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "16h_as_14h_(22h)": {
+            "domingo": 746.35,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 695.11,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "16h_as_15h_(23h)": {
+            "domingo": 772.82,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 731.52,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "16h_as_16h_(24h)": {
+            "domingo": 799.29,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 767.93,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "16h_as_17h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "16h_as_18h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "16h_as_19h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "16h_as_20h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "16h_as_21h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "16h_as_22h_(06h)": {
+            "domingo": 218.46,
+            "segunda": 158.82,
+            "terça": 158.82,
+            "quarta": 158.82,
+            "quinta": 158.82,
+            "sexta": 218.46,
+            "sábado": 218.46
+        },
+        "16h_as_23h_(07h)": {
+            "domingo": 259.84,
+            "segunda": 188.62,
+            "terça": 188.62,
+            "quarta": 188.62,
+            "quinta": 188.62,
+            "sexta": 259.84,
+            "sábado": 259.84
+        },
+        "17h_as_00h_(07h)": {
+            "domingo": 264.81,
+            "segunda": 191.95,
+            "terça": 191.95,
+            "quarta": 191.95,
+            "quinta": 191.95,
+            "sexta": 264.81,
+            "sábado": 264.81
+        },
+        "17h_as_01h_(08h)": {
+            "domingo": 306.19,
+            "segunda": 221.75,
+            "terça": 221.75,
+            "quarta": 221.75,
+            "quinta": 221.75,
+            "sexta": 306.19,
+            "sábado": 306.19
+        },
+        "17h_as_02h_(09h)": {
+            "domingo": 347.57,
+            "segunda": 251.55,
+            "terça": 251.55,
+            "quarta": 251.55,
+            "quinta": 251.55,
+            "sexta": 347.57,
+            "sábado": 347.57
+        },
+        "17h_as_03h_(10h)": {
+            "domingo": 388.95,
+            "segunda": 281.35,
+            "terça": 281.35,
+            "quarta": 281.35,
+            "quinta": 281.35,
+            "sexta": 388.95,
+            "sábado": 388.95
+        },
+        "17h_as_04h_(11h)": {
+            "domingo": 430.33,
+            "segunda": 311.15,
+            "terça": 311.15,
+            "quarta": 311.15,
+            "quinta": 311.15,
+            "sexta": 430.33,
+            "sábado": 430.33
+        },
+        "17h_as_05h_(12h)": {
+            "domingo": 471.71,
+            "segunda": 340.95,
+            "terça": 340.95,
+            "quarta": 340.95,
+            "quinta": 340.95,
+            "sexta": 471.71,
+            "sábado": 471.71
+        },
+        "17h_as_06h_(13h)": {
+            "domingo": 498.18,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 377.36,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "17h_as_07h_(14h)": {
+            "domingo": 524.65,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 413.77,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "17h_as_08h_(15h)": {
+            "domingo": 551.12,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 450.18,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "17h_as_09h_(16h)": {
+            "domingo": 577.59,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 486.59,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "17h_as_10h_(17h)": {
+            "domingo": 604.06,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 523.0,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "17h_as_11h_(18h)": {
+            "domingo": 630.53,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 559.41,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "17h_as_12h_(19h)": {
+            "domingo": 657.0,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 595.82,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "17h_as_13h_(20h)": {
+            "domingo": 683.47,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 632.23,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "17h_as_14h_(21h)": {
+            "domingo": 709.94,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 668.64,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "17h_as_15h_(22h)": {
+            "domingo": 736.41,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 705.05,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "17h_as_16h_(23h)": {
+            "domingo": 762.88,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 741.46,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "17h_as_17h_(24h)": {
+            "domingo": 789.35,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 777.87,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "17h_as_18h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "17h_as_19h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "17h_as_20h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "17h_as_21h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "17h_as_22h_(05h)": {
+            "domingo": 182.05,
+            "segunda": 132.35,
+            "terça": 132.35,
+            "quarta": 132.35,
+            "quinta": 132.35,
+            "sexta": 182.05,
+            "sábado": 182.05
+        },
+        "17h_as_23h_(06h)": {
+            "domingo": 223.43,
+            "segunda": 162.15,
+            "terça": 162.15,
+            "quarta": 162.15,
+            "quinta": 162.15,
+            "sexta": 223.43,
+            "sábado": 223.43
+        },
+        "18h_as_00h_(06h)": {
+            "domingo": 228.4,
+            "segunda": 165.48,
+            "terça": 165.48,
+            "quarta": 165.48,
+            "quinta": 165.48,
+            "sexta": 228.4,
+            "sábado": 228.4
+        },
+        "18h_as_01h_(07h)": {
+            "domingo": 269.78,
+            "segunda": 195.28,
+            "terça": 195.28,
+            "quarta": 195.28,
+            "quinta": 195.28,
+            "sexta": 269.78,
+            "sábado": 269.78
+        },
+        "18h_as_02h_(08h)": {
+            "domingo": 311.16,
+            "segunda": 225.08,
+            "terça": 225.08,
+            "quarta": 225.08,
+            "quinta": 225.08,
+            "sexta": 311.16,
+            "sábado": 311.16
+        },
+        "18h_as_03h_(09h)": {
+            "domingo": 352.54,
+            "segunda": 254.88,
+            "terça": 254.88,
+            "quarta": 254.88,
+            "quinta": 254.88,
+            "sexta": 352.54,
+            "sábado": 352.54
+        },
+        "18h_as_04h_(10h)": {
+            "domingo": 393.92,
+            "segunda": 284.68,
+            "terça": 284.68,
+            "quarta": 284.68,
+            "quinta": 284.68,
+            "sexta": 393.92,
+            "sábado": 393.92
+        },
+        "18h_as_05h_(11h)": {
+            "domingo": 435.3,
+            "segunda": 314.48,
+            "terça": 314.48,
+            "quarta": 314.48,
+            "quinta": 314.48,
+            "sexta": 435.3,
+            "sábado": 435.3
+        },
+        "18h_as_06h_(12h)": {
+            "domingo": 461.77,
+            "segunda": 340.95,
+            "terça": 340.95,
+            "quarta": 340.95,
+            "quinta": 350.89,
+            "sexta": 471.71,
+            "sábado": 471.71
+        },
+        "18h_as_07h_(13h)": {
+            "domingo": 488.24,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 387.3,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "18h_as_08h_(14h)": {
+            "domingo": 514.71,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 423.71,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "18h_as_09h_(15h)": {
+            "domingo": 541.18,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 460.12,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "18h_as_10h_(16h)": {
+            "domingo": 567.65,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 496.53,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "18h_as_11h_(17h)": {
+            "domingo": 594.12,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 532.94,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "18h_as_12h_(18h)": {
+            "domingo": 620.59,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 569.35,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "18h_as_13h_(19h)": {
+            "domingo": 647.06,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 605.76,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "18h_as_14h_(20h)": {
+            "domingo": 673.53,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 642.17,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "18h_as_15h_(21h)": {
+            "domingo": 700.0,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 678.58,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "18h_as_16h_(22h)": {
+            "domingo": 726.47,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 714.99,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "18h_as_17h_(23h)": {
+            "domingo": 752.94,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 751.4,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "18h_as_18h_(24h)": {
+            "domingo": 779.41,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 787.81,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "18h_as_19h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "18h_as_20h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "18h_as_21h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "18h_as_22h_(04h)": {
+            "domingo": 145.64,
+            "segunda": 105.88,
+            "terça": 105.88,
+            "quarta": 105.88,
+            "quinta": 105.88,
+            "sexta": 145.64,
+            "sábado": 145.64
+        },
+        "18h_as_23h_(05h)": {
+            "domingo": 187.02,
+            "segunda": 135.68,
+            "terça": 135.68,
+            "quarta": 135.68,
+            "quinta": 135.68,
+            "sexta": 187.02,
+            "sábado": 187.02
+        },
+        "19h_as_00h_(05h)": {
+            "domingo": 191.99,
+            "segunda": 139.01,
+            "terça": 139.01,
+            "quarta": 139.01,
+            "quinta": 139.01,
+            "sexta": 191.99,
+            "sábado": 191.99
+        },
+        "19h_as_01h_(06h)": {
+            "domingo": 233.37,
+            "segunda": 168.81,
+            "terça": 168.81,
+            "quarta": 168.81,
+            "quinta": 168.81,
+            "sexta": 233.37,
+            "sábado": 233.37
+        },
+        "19h_as_02h_(07h)": {
+            "domingo": 274.75,
+            "segunda": 198.61,
+            "terça": 198.61,
+            "quarta": 198.61,
+            "quinta": 198.61,
+            "sexta": 274.75,
+            "sábado": 274.75
+        },
+        "19h_as_03h_(08h)": {
+            "domingo": 316.13,
+            "segunda": 228.41,
+            "terça": 228.41,
+            "quarta": 228.41,
+            "quinta": 228.41,
+            "sexta": 316.13,
+            "sábado": 316.13
+        },
+        "19h_as_04h_(09h)": {
+            "domingo": 357.51,
+            "segunda": 258.21,
+            "terça": 258.21,
+            "quarta": 258.21,
+            "quinta": 258.21,
+            "sexta": 357.51,
+            "sábado": 357.51
+        },
+        "19h_as_05h_(10h)": {
+            "domingo": 398.89,
+            "segunda": 288.01,
+            "terça": 288.01,
+            "quarta": 288.01,
+            "quinta": 288.01,
+            "sexta": 398.89,
+            "sábado": 398.89
+        },
+        "19h_as_06h_(11h)": {
+            "domingo": 425.36,
+            "segunda": 314.48,
+            "terça": 314.48,
+            "quarta": 314.48,
+            "quinta": 324.42,
+            "sexta": 435.3,
+            "sábado": 435.3
+        },
+        "19h_as_07h_(12h)": {
+            "domingo": 451.83,
+            "segunda": 340.95,
+            "terça": 340.95,
+            "quarta": 340.95,
+            "quinta": 360.83,
+            "sexta": 471.71,
+            "sábado": 471.71
+        },
+        "19h_as_08h_(13h)": {
+            "domingo": 478.3,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 397.24,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "19h_as_09h_(14h)": {
+            "domingo": 504.77,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 433.65,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "19h_as_10h_(15h)": {
+            "domingo": 531.24,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 470.06,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "19h_as_11h_(16h)": {
+            "domingo": 557.71,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 506.47,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "19h_as_12h_(17h)": {
+            "domingo": 584.18,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 542.88,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "19h_as_13h_(18h)": {
+            "domingo": 610.65,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 579.29,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "19h_as_14h_(19h)": {
+            "domingo": 637.12,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 615.7,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "19h_as_15h_(20h)": {
+            "domingo": 663.59,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 652.11,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "19h_as_16h_(21h)": {
+            "domingo": 690.06,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 688.52,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "19h_as_17h_(22h)": {
+            "domingo": 716.53,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 724.93,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "19h_as_18h_(23h)": {
+            "domingo": 743.0,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 761.34,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "19h_as_19h_(24h)": {
+            "domingo": 769.47,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 797.95,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "19h_as_20h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "19h_as_21h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "19h_as_22h_(03h)": {
+            "domingo": 109.23,
+            "segunda": 79.41,
+            "terça": 79.41,
+            "quarta": 79.41,
+            "quinta": 79.41,
+            "sexta": 109.23,
+            "sábado": 109.23
+        },
+        "19h_as_23h_(04h)": {
+            "domingo": 150.61,
+            "segunda": 109.21,
+            "terça": 109.21,
+            "quarta": 109.21,
+            "quinta": 109.21,
+            "sexta": 150.61,
+            "sábado": 150.61
+        },
+        "20h_as_00h_(04h)": {
+            "domingo": 155.58,
+            "segunda": 112.54,
+            "terça": 112.54,
+            "quarta": 112.54,
+            "quinta": 112.54,
+            "sexta": 155.58,
+            "sábado": 155.58
+        },
+        "20h_as_01h_(05h)": {
+            "domingo": 196.96,
+            "segunda": 142.34,
+            "terça": 142.34,
+            "quarta": 142.34,
+            "quinta": 142.34,
+            "sexta": 196.96,
+            "sábado": 196.96
+        },
+        "20h_as_02h_(06h)": {
+            "domingo": 238.34,
+            "segunda": 172.14,
+            "terça": 172.14,
+            "quarta": 172.14,
+            "quinta": 172.14,
+            "sexta": 238.34,
+            "sábado": 238.34
+        },
+        "20h_as_03h_(07h)": {
+            "domingo": 279.72,
+            "segunda": 201.94,
+            "terça": 201.94,
+            "quarta": 201.94,
+            "quinta": 201.94,
+            "sexta": 279.72,
+            "sábado": 279.72
+        },
+        "20h_as_04h_(08h)": {
+            "domingo": 321.1,
+            "segunda": 231.74,
+            "terça": 231.74,
+            "quarta": 231.74,
+            "quinta": 231.74,
+            "sexta": 321.1,
+            "sábado": 321.1
+        },
+        "20h_as_05h_(09h)": {
+            "domingo": 362.48,
+            "segunda": 261.54,
+            "terça": 261.54,
+            "quarta": 261.54,
+            "quinta": 261.54,
+            "sexta": 362.48,
+            "sábado": 362.48
+        },
+        "20h_as_06h_(10h)": {
+            "domingo": 388.95,
+            "segunda": 288.01,
+            "terça": 288.01,
+            "quarta": 288.01,
+            "quinta": 297.95,
+            "sexta": 398.89,
+            "sábado": 398.89
+        },
+        "20h_as_07h_(11h)": {
+            "domingo": 415.42,
+            "segunda": 314.48,
+            "terça": 314.48,
+            "quarta": 314.48,
+            "quinta": 334.36,
+            "sexta": 435.3,
+            "sábado": 435.3
+        },
+        "20h_as_08h_(12h)": {
+            "domingo": 441.89,
+            "segunda": 340.95,
+            "terça": 340.95,
+            "quarta": 340.95,
+            "quinta": 370.77,
+            "sexta": 471.71,
+            "sábado": 471.71
+        },
+        "20h_as_09h_(13h)": {
+            "domingo": 468.36,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 407.18,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "20h_as_10h_(14h)": {
+            "domingo": 494.83,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 443.59,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "20h_as_11h_(15h)": {
+            "domingo": 521.3,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 480.0,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "20h_as_12h_(16h)": {
+            "domingo": 547.77,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 516.41,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "20h_as_13h_(17h)": {
+            "domingo": 574.24,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 552.82,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "20h_as_14h_(18h)": {
+            "domingo": 600.71,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 589.23,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "20h_as_15h_(19h)": {
+            "domingo": 627.18,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 625.64,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "20h_as_16h_(20h)": {
+            "domingo": 653.65,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 662.05,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "20h_as_17h_(21h)": {
+            "domingo": 680.12,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 698.46,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "20h_as_18h_(22h)": {
+            "domingo": 706.59,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 734.87,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "20h_as_19h_(23h)": {
+            "domingo": 733.06,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 771.28,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "20h_as_20h_(24h)": {
+            "domingo": 759.53,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 807.69,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "20h_as_21h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "20h_as_22h_(02h)": {
+            "domingo": 72.82,
+            "segunda": 52.94,
+            "terça": 52.94,
+            "quarta": 52.94,
+            "quinta": 52.94,
+            "sexta": 72.82,
+            "sábado": 72.82
+        },
+        "20h_as_23h_(03h)": {
+            "domingo": 114.2,
+            "segunda": 82.74,
+            "terça": 82.74,
+            "quarta": 82.74,
+            "quinta": 82.74,
+            "sexta": 114.2,
+            "sábado": 114.2
+        },
+        "21h_as_00h_(03h)": {
+            "domingo": 119.17,
+            "segunda": 86.07,
+            "terça": 86.07,
+            "quarta": 86.07,
+            "quinta": 86.07,
+            "sexta": 119.17,
+            "sábado": 119.17
+        },
+        "21h_as_01h_(04h)": {
+            "domingo": 160.55,
+            "segunda": 115.87,
+            "terça": 115.87,
+            "quarta": 115.87,
+            "quinta": 115.87,
+            "sexta": 160.55,
+            "sábado": 160.55
+        },
+        "21h_as_02h_(05h)": {
+            "domingo": 201.93,
+            "segunda": 145.67,
+            "terça": 145.67,
+            "quarta": 145.67,
+            "quinta": 145.67,
+            "sexta": 201.93,
+            "sábado": 201.93
+        },
+        "21h_as_03h_(06h)": {
+            "domingo": 243.31,
+            "segunda": 175.47,
+            "terça": 175.47,
+            "quarta": 175.47,
+            "quinta": 175.47,
+            "sexta": 243.31,
+            "sábado": 243.31
+        },
+        "21h_as_04h_(07h)": {
+            "domingo": 284.69,
+            "segunda": 205.27,
+            "terça": 205.27,
+            "quarta": 205.27,
+            "quinta": 205.27,
+            "sexta": 284.69,
+            "sábado": 284.69
+        },
+        "21h_as_05h_(08h)": {
+            "domingo": 326.07,
+            "segunda": 235.07,
+            "terça": 235.07,
+            "quarta": 235.07,
+            "quinta": 235.07,
+            "sexta": 326.07,
+            "sábado": 326.07
+        },
+        "21h_as_06h_(09h)": {
+            "domingo": 352.54,
+            "segunda": 261.54,
+            "terça": 261.54,
+            "quarta": 261.54,
+            "quinta": 271.48,
+            "sexta": 362.48,
+            "sábado": 362.48
+        },
+        "21h_as_07h_(10h)": {
+            "domingo": 379.01,
+            "segunda": 288.01,
+            "terça": 288.01,
+            "quarta": 288.01,
+            "quinta": 307.89,
+            "sexta": 398.89,
+            "sábado": 398.89
+        },
+        "21h_as_08h_(11h)": {
+            "domingo": 405.48,
+            "segunda": 314.48,
+            "terça": 314.48,
+            "quarta": 314.48,
+            "quinta": 344.3,
+            "sexta": 435.3,
+            "sábado": 435.3
+        },
+        "21h_as_09h_(12h)": {
+            "domingo": 431.95,
+            "segunda": 340.95,
+            "terça": 340.95,
+            "quarta": 340.95,
+            "quinta": 380.71,
+            "sexta": 471.71,
+            "sábado": 471.71
+        },
+        "21h_as_10h_(13h)": {
+            "domingo": 458.42,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 417.12,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "21h_as_11h_(14h)": {
+            "domingo": 484.89,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 453.53,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "21h_as_12h_(15h)": {
+            "domingo": 511.36,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 489.94,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "21h_as_13h_(16h)": {
+            "domingo": 537.83,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 526.35,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "21h_as_14h_(17h)": {
+            "domingo": 564.3,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 562.76,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "21h_as_15h_(18h)": {
+            "domingo": 590.77,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 599.17,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "21h_as_16h_(19h)": {
+            "domingo": 617.24,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 635.58,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "21h_as_17h_(20h)": {
+            "domingo": 643.71,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 671.99,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "21h_as_18h_(21h)": {
+            "domingo": 670.18,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 708.4,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "21h_as_19h_(22h)": {
+            "domingo": 696.65,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 744.81,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "21h_as_20h_(23h)": {
+            "domingo": 723.12,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 781.22,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "21h_as_21h_(24h)": {
+            "domingo": 749.59,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 817.63,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "21h_as_22h_(01h)": {
+            "domingo": 36.41,
+            "segunda": 26.47,
+            "terça": 26.47,
+            "quarta": 26.47,
+            "quinta": 26.47,
+            "sexta": 36.41,
+            "sábado": 36.41
+        },
+        "21h_as_23h_(02h)": {
+            "domingo": 77.79,
+            "segunda": 56.27,
+            "terça": 56.27,
+            "quarta": 56.27,
+            "quinta": 56.27,
+            "sexta": 77.79,
+            "sábado": 77.79
+        },
+        "22h_as_00h_(02h)": {
+            "domingo": 82.76,
+            "segunda": 59.6,
+            "terça": 59.6,
+            "quarta": 59.6,
+            "quinta": 59.6,
+            "sexta": 82.76,
+            "sábado": 82.76
+        },
+        "22h_as_01h_(03h)": {
+            "domingo": 124.14,
+            "segunda": 89.4,
+            "terça": 89.4,
+            "quarta": 89.4,
+            "quinta": 89.4,
+            "sexta": 124.14,
+            "sábado": 124.14
+        },
+        "22h_as_02h_(04h)": {
+            "domingo": 165.52,
+            "segunda": 119.2,
+            "terça": 119.2,
+            "quarta": 119.2,
+            "quinta": 119.2,
+            "sexta": 165.52,
+            "sábado": 165.52
+        },
+        "22h_as_03h_(05h)": {
+            "domingo": 206.9,
+            "segunda": 149.0,
+            "terça": 149.0,
+            "quarta": 149.0,
+            "quinta": 149.0,
+            "sexta": 206.9,
+            "sábado": 206.9
+        },
+        "22h_as_04h_(06h)": {
+            "domingo": 248.28,
+            "segunda": 178.8,
+            "terça": 178.8,
+            "quarta": 178.8,
+            "quinta": 178.8,
+            "sexta": 248.28,
+            "sábado": 248.28
+        },
+        "22h_as_05h_(07h)": {
+            "domingo": 289.66,
+            "segunda": 208.6,
+            "terça": 208.6,
+            "quarta": 208.6,
+            "quinta": 208.6,
+            "sexta": 289.66,
+            "sábado": 289.66
+        },
+        "22h_as_06h_(08h)": {
+            "domingo": 316.13,
+            "segunda": 235.07,
+            "terça": 235.07,
+            "quarta": 235.07,
+            "quinta": 245.01,
+            "sexta": 326.07,
+            "sábado": 326.07
+        },
+        "22h_as_07h_(09h)": {
+            "domingo": 342.6,
+            "segunda": 261.54,
+            "terça": 261.54,
+            "quarta": 261.54,
+            "quinta": 281.42,
+            "sexta": 362.48,
+            "sábado": 362.48
+        },
+        "22h_as_08h_(10h)": {
+            "domingo": 369.07,
+            "segunda": 288.01,
+            "terça": 288.01,
+            "quarta": 288.01,
+            "quinta": 317.83,
+            "sexta": 398.89,
+            "sábado": 398.89
+        },
+        "22h_as_09h_(11h)": {
+            "domingo": 395.54,
+            "segunda": 314.48,
+            "terça": 314.48,
+            "quarta": 314.48,
+            "quinta": 354.24,
+            "sexta": 435.3,
+            "sábado": 435.3
+        },
+        "22h_as_10h_(12h)": {
+            "domingo": 422.01,
+            "segunda": 340.95,
+            "terça": 340.95,
+            "quarta": 340.95,
+            "quinta": 390.65,
+            "sexta": 471.71,
+            "sábado": 471.71
+        },
+        "22h_as_11h_(13h)": {
+            "domingo": 448.48,
+            "segunda": 367.42,
+            "terça": 367.42,
+            "quarta": 367.42,
+            "quinta": 427.06,
+            "sexta": 508.12,
+            "sábado": 508.12
+        },
+        "22h_as_12h_(14h)": {
+            "domingo": 474.95,
+            "segunda": 393.89,
+            "terça": 393.89,
+            "quarta": 393.89,
+            "quinta": 463.47,
+            "sexta": 544.53,
+            "sábado": 544.53
+        },
+        "22h_as_13h_(15h)": {
+            "domingo": 501.42,
+            "segunda": 420.36,
+            "terça": 420.36,
+            "quarta": 420.36,
+            "quinta": 499.88,
+            "sexta": 580.94,
+            "sábado": 580.94
+        },
+        "22h_as_14h_(16h)": {
+            "domingo": 527.89,
+            "segunda": 446.83,
+            "terça": 446.83,
+            "quarta": 446.83,
+            "quinta": 536.29,
+            "sexta": 617.35,
+            "sábado": 617.35
+        },
+        "22h_as_15h_(17h)": {
+            "domingo": 554.36,
+            "segunda": 473.3,
+            "terça": 473.3,
+            "quarta": 473.3,
+            "quinta": 572.7,
+            "sexta": 653.76,
+            "sábado": 653.76
+        },
+        "22h_as_16h_(18h)": {
+            "domingo": 580.83,
+            "segunda": 499.77,
+            "terça": 499.77,
+            "quarta": 499.77,
+            "quinta": 609.11,
+            "sexta": 690.17,
+            "sábado": 690.17
+        },
+        "22h_as_17h_(19h)": {
+            "domingo": 607.3,
+            "segunda": 526.24,
+            "terça": 526.24,
+            "quarta": 526.24,
+            "quinta": 645.52,
+            "sexta": 726.58,
+            "sábado": 726.58
+        },
+        "22h_as_18h_(20h)": {
+            "domingo": 633.77,
+            "segunda": 552.71,
+            "terça": 552.71,
+            "quarta": 552.71,
+            "quinta": 681.93,
+            "sexta": 762.99,
+            "sábado": 762.99
+        },
+        "22h_as_19h_(21h)": {
+            "domingo": 660.24,
+            "segunda": 579.18,
+            "terça": 579.18,
+            "quarta": 579.18,
+            "quinta": 718.34,
+            "sexta": 799.4,
+            "sábado": 799.4
+        },
+        "22h_as_20h_(22h)": {
+            "domingo": 686.71,
+            "segunda": 605.65,
+            "terça": 605.65,
+            "quarta": 605.65,
+            "quinta": 754.75,
+            "sexta": 835.81,
+            "sábado": 835.81
+        },
+        "22h_as_21h_(23h)": {
+            "domingo": 713.18,
+            "segunda": 632.12,
+            "terça": 632.12,
+            "quarta": 632.12,
+            "quinta": 791.16,
+            "sexta": 872.22,
+            "sábado": 872.22
+        },
+        "22h_as_22h_(24h)": {
+            "domingo": 739.65,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 827.57,
+            "sexta": 908.63,
+            "sábado": 908.63
+        },
+        "22h_as_23h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "23h_as_00h_(01h)": {
+            "domingo": 41.38,
+            "segunda": 29.8,
+            "terça": 29.8,
+            "quarta": 29.8,
+            "quinta": 29.8,
+            "sexta": 41.38,
+            "sábado": 41.38
+        },
+        "23h_as_01h_(02h)": {
+            "domingo": 82.76,
+            "segunda": 59.6,
+            "terça": 59.6,
+            "quarta": 59.6,
+            "quinta": 59.6,
+            "sexta": 82.76,
+            "sábado": 82.76
+        },
+        "23h_as_02h_(03h)": {
+            "domingo": 124.14,
+            "segunda": 89.4,
+            "terça": 89.4,
+            "quarta": 89.4,
+            "quinta": 89.4,
+            "sexta": 124.14,
+            "sábado": 124.14
+        },
+        "23h_as_03h_(04h)": {
+            "domingo": 165.52,
+            "segunda": 119.2,
+            "terça": 119.2,
+            "quarta": 119.2,
+            "quinta": 119.2,
+            "sexta": 165.52,
+            "sábado": 165.52
+        },
+        "23h_as_04h_(05h)": {
+            "domingo": 206.9,
+            "segunda": 149.0,
+            "terça": 149.0,
+            "quarta": 149.0,
+            "quinta": 149.0,
+            "sexta": 206.9,
+            "sábado": 206.9
+        },
+        "23h_as_05h_(06h)": {
+            "domingo": 248.28,
+            "segunda": 178.8,
+            "terça": 178.8,
+            "quarta": 178.8,
+            "quinta": 178.8,
+            "sexta": 248.28,
+            "sábado": 248.28
+        },
+        "23h_as_06h_(07h)": {
+            "domingo": 274.75,
+            "segunda": 205.27,
+            "terça": 205.27,
+            "quarta": 205.27,
+            "quinta": 215.21,
+            "sexta": 284.69,
+            "sábado": 284.69
+        },
+        "23h_as_07h_(08h)": {
+            "domingo": 301.22,
+            "segunda": 231.74,
+            "terça": 231.74,
+            "quarta": 231.74,
+            "quinta": 251.62,
+            "sexta": 321.1,
+            "sábado": 321.1
+        },
+        "23h_as_08h_(09h)": {
+            "domingo": 327.69,
+            "segunda": 258.21,
+            "terça": 258.21,
+            "quarta": 258.21,
+            "quinta": 288.03,
+            "sexta": 357.51,
+            "sábado": 357.51
+        },
+        "23h_as_09h_(10h)": {
+            "domingo": 354.16,
+            "segunda": 284.68,
+            "terça": 284.68,
+            "quarta": 284.68,
+            "quinta": 324.44,
+            "sexta": 393.92,
+            "sábado": 393.92
+        },
+        "23h_as_10h_(11h)": {
+            "domingo": 380.63,
+            "segunda": 311.15,
+            "terça": 311.15,
+            "quarta": 311.15,
+            "quinta": 360.85,
+            "sexta": 430.33,
+            "sábado": 430.33
+        },
+        "23h_as_11h_(12h)": {
+            "domingo": 407.1,
+            "segunda": 337.62,
+            "terça": 337.62,
+            "quarta": 337.62,
+            "quinta": 397.26,
+            "sexta": 466.74,
+            "sábado": 466.74
+        },
+        "23h_as_12h_(13h)": {
+            "domingo": 433.57,
+            "segunda": 364.09,
+            "terça": 364.09,
+            "quarta": 364.09,
+            "quinta": 433.67,
+            "sexta": 503.15,
+            "sábado": 503.15
+        },
+        "23h_as_13h_(14h)": {
+            "domingo": 460.04,
+            "segunda": 390.56,
+            "terça": 390.56,
+            "quarta": 390.56,
+            "quinta": 470.08,
+            "sexta": 539.56,
+            "sábado": 539.56
+        },
+        "23h_as_14h_(15h)": {
+            "domingo": 486.51,
+            "segunda": 417.03,
+            "terça": 417.03,
+            "quarta": 417.03,
+            "quinta": 506.49,
+            "sexta": 575.97,
+            "sábado": 575.97
+        },
+        "23h_as_15h_(16h)": {
+            "domingo": 512.98,
+            "segunda": 443.5,
+            "terça": 443.5,
+            "quarta": 443.5,
+            "quinta": 542.9,
+            "sexta": 612.38,
+            "sábado": 612.38
+        },
+        "23h_as_16h_(17h)": {
+            "domingo": 539.45,
+            "segunda": 469.97,
+            "terça": 469.97,
+            "quarta": 469.97,
+            "quinta": 579.31,
+            "sexta": 648.79,
+            "sábado": 648.79
+        },
+        "23h_as_17h_(18h)": {
+            "domingo": 565.92,
+            "segunda": 496.44,
+            "terça": 496.44,
+            "quarta": 496.44,
+            "quinta": 615.72,
+            "sexta": 685.2,
+            "sábado": 685.2
+        },
+        "23h_as_18h_(19h)": {
+            "domingo": 592.39,
+            "segunda": 522.91,
+            "terça": 522.91,
+            "quarta": 522.91,
+            "quinta": 652.13,
+            "sexta": 721.61,
+            "sábado": 721.61
+        },
+        "23h_as_19h_(20h)": {
+            "domingo": 618.86,
+            "segunda": 549.38,
+            "terça": 549.38,
+            "quarta": 549.38,
+            "quinta": 688.54,
+            "sexta": 758.02,
+            "sábado": 758.02
+        },
+        "23h_as_20h_(21h)": {
+            "domingo": 645.33,
+            "segunda": 575.85,
+            "terça": 575.85,
+            "quarta": 575.85,
+            "quinta": 724.95,
+            "sexta": 794.43,
+            "sábado": 794.43
+        },
+        "23h_as_21h_(22h)": {
+            "domingo": 671.8,
+            "segunda": 602.32,
+            "terça": 602.32,
+            "quarta": 602.32,
+            "quinta": 761.36,
+            "sexta": 830.84,
+            "sábado": 830.84
+        },
+        "23h_as_22h_(23h)": {
+            "domingo": 698.27,
+            "segunda": 628.79,
+            "terça": 628.79,
+            "quarta": 628.79,
+            "quinta": 797.77,
+            "sexta": 867.25,
+            "sábado": 867.25
+        },
+        "23h_as_23h_(24h)": {
+            "domingo": 724.74,
+            "segunda": 658.59,
+            "terça": 658.59,
+            "quarta": 658.59,
+            "quinta": 839.15,
+            "sexta": 908.63,
+            "sábado": 908.63
+        }
+    }
+}
