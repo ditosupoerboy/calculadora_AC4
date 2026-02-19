@@ -2,28 +2,20 @@
 <html lang="pt-BR">
 <head>
   <style>
-   .container-botao {
-    display: left;
-    justify-content: left; /* Alinha o conteúdo do flex à esquerda */
-    width: 100%;                 /* Garante que o container ocupe a largura toda */
-    margin: 15px 0;
-}
-
-.botao-pdf {
-    display: left;
-    align-items: left;
-    gap: 8px;
-    padding: 8px 16px;
+    .botao-pdf {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;                  /* Espaço entre ícone e texto */
+    padding: 8px 16px;         /* Reduzido (antes era 12px 24px) */
     background-color: #e74c3c;
     color: white;
     text-decoration: none;
-    border-radius: 6px;
+    border-radius: 6px;        /* Bordas levemente menos arredondadas */
     font-family: Arial, sans-serif;
-    font-size: 14px;
+    font-size: 14px;           /* Tamanho da fonte menor (padrão é 16px) */
     font-weight: bold;
-    margin-right: auto;         /* Força o botão para a esquerda */
     transition: background-color 0.3s ease, transform 0.2s ease;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra mais sutil */
 }
 
 /* O restante (hover e active) pode continuar igual */
@@ -144,10 +136,10 @@
 <body>
   <header>
     <header>
-  <h6 style="color: #6e6e6e; text-align: left;">Criado por CB Edilson</h6>
   <img src="img/brasao leve.png" alt="Brasão 5º CRPM" />
   <h1 style="color: black;">5°CRPM</h1><br>
   <h2 style="color: #6e6e6e;">Calculadora AC4</h2>
+  <h6 style="color: #6e6e6e; text-align: left;">Criado por CB Edilson</h6>
       <a href="Portaria_AC4.pdf" target="_blank" class="botao-pdf">
     <i class="fas fa-file-pdf"></i> Portaria AC4
 </a>
@@ -314,11 +306,6 @@
   </script>
 </body>
 </html>
-
-
-
-
-
 
 
 
